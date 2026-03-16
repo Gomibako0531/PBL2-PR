@@ -1,2 +1,2 @@
-# PBL2-PR
-This is the main repository for the PBL-2 project made by the Physical Realists group. 
+Physics Classroom (VR Learning Project)
+大学のPBL（Project-based learning）の授業にて制作した、中高生向けのVR物理学習支援アプリです。
